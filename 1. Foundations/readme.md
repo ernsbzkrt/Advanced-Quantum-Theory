@@ -6,11 +6,14 @@ The first topic of our Advanced Quantum Theory study is to revisit the topics we
 
 Here, the topics provided below will be thoroughly discussed, with an in-depth examination of key points.
 
-- **Superposition, Entanglement and Reversibility**
-- **1.1 Superposition and Entanglement**
-- **1.2 The Born Rule**
-- **1.3 Schrödinger’s Equation**
-- **1.4 The Physics of Computation**
+- **1) Superposition, Entanglement and Reversibility**
+  
+-**2) A Briec History of Quantum Computing**
+
+-**3) Qubits, Operators and Measurement**
+
+-**4) Complexity Theory**
+  
 
 ## 3. Contribution 🤝
 Contributions to this repository from anyone willing to contribute are welcomed. If you want to add, correct, or improve content related to quantum theory, please submit a pull request.

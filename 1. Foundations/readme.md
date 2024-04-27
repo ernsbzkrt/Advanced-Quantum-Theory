@@ -8,11 +8,11 @@ Here, the topics provided below will be thoroughly discussed, with an in-depth e
 
 - **1) Superposition, Entanglement and Reversibility**
   
--**2) A Briec History of Quantum Computing**
+- **2) A Briec History of Quantum Computing**
 
--**3) Qubits, Operators and Measurement**
+- **3) Qubits, Operators and Measurement**
 
--**4) Complexity Theory**
+- **4) Complexity Theory**
   
 
 ## 3. Contribution 🤝

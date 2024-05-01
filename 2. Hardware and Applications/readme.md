@@ -12,11 +12,11 @@ Here, the topics provided below will be thoroughly discussed, with an in-depth e
 
 - **3) Teleportation, Superdense Coding and Bell's Inequality**
 
--**4) The Canon : Code Walkthroughs**
+- **4) The Canon : Code Walkthroughs**
 
--**5) Quantum Computing Methods**
+- **5) Quantum Computing Methods**
 
--**6) Applications and Quantum Supremacy**
+- **6) Applications and Quantum Supremacy**
   
 ## 3. Contribution 🤝
 Contributions to this repository from anyone willing to contribute are welcomed. If you want to add, correct, or improve content related to quantum theory, please submit a pull request.

@@ -23,10 +23,6 @@ The content of this repository will be updated over time. Consider it as the fir
 - 🚀 Quantum Computing Methods
 - 📡 Applications and Quantum Supremacy
 
-**3. Toolkit**
-- 🔢 Mathematical Tools for Quantum Computing
-- 📝 Dirac Notation
-
 ## Contribution 🤝
 Contributions to this repository from anyone willing to contribute are welcomed. If you want to add, correct, or improve content related to quantum theory, please submit a pull request.
 
